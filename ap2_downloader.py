@@ -230,7 +230,12 @@ def main():
 
     finally:
         if driver:
-            driver.quit()
+            try:
+                driver.quit()
+            except OSError as e:
+                # Ignore "handle is invalid" errors on exit
+                if "invalid" not in str(e).lower():
+                    raise e
 
 
 if __name__ == "__main__":
