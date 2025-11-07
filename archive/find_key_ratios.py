@@ -2,7 +2,7 @@
 import camelot
 import fitz
 
-pdf_path = r"downloads\20251107_104414\AP2_2025_half_year.pdf"
+pdf_path = r"downloads\20251107_151315\AP2_2024_half_year.pdf"
 
 print("=" * 80)
 print("SEARCHING FOR KEY RATIOS PAGE")
@@ -19,6 +19,10 @@ for page_num in range(len(doc)):
 
         # Extract tables from this page
         tables = camelot.read_pdf(pdf_path, pages=str(page_num + 1), flavor='lattice')
+
+        if len(tables) == 0:
+            print("  Lattice mode found no tables, trying stream mode...")
+            tables = camelot.read_pdf(pdf_path, pages=str(page_num + 1), flavor='stream', edge_tol=50, row_tol=10)
 
         if len(tables) > 0:
             print(f"  Found {len(tables)} table(s)")

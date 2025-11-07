@@ -303,6 +303,16 @@ def extract_key_ratios(pdf_path):
         tables = camelot.read_pdf(pdf_path, pages=str(key_ratios_page), flavor='lattice')
 
         if len(tables) == 0:
+            logger.info("  Lattice mode found no tables, trying stream mode...")
+            tables = camelot.read_pdf(
+                pdf_path,
+                pages=str(key_ratios_page),
+                flavor='stream',
+                edge_tol=50,
+                row_tol=10
+            )
+
+        if len(tables) == 0:
             logger.warning("  No tables found on Key Ratios page")
             return {}
 
@@ -317,7 +327,7 @@ def extract_key_ratios(pdf_path):
 
             # Fund capital carried forward (LEVEL - in billions)
             if 'fund capital carried forward' in field_name and 'sek billion' in field_name:
-                value = clean_number_string(row.iloc[1], allow_decimal=False)
+                value = clean_number_string(row.iloc[1], allow_decimal=True)
                 if value is not None:
                     data['FUNDCAPITALCARRIEDFORWARDLEVEL'] = value
                     logger.info(f"    [OK] Fund capital carried forward (LEVEL): {value}")
