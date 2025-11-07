@@ -1,0 +1,14 @@
+{
+  "last_run": "20251106_195045",
+  "last_success": "20251106_195045",
+  "total_runs": 1,
+  "successful_runs": 1,
+  "failed_runs": 0,
+  "run_history": [
+    {
+      "timestamp": "20251106_195045",
+      "success": true,
+      "error": null
+    }
+  ]
+}

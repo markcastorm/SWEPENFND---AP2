@@ -1,0 +1,120 @@
+2025-11-06 20:47:22,174 - INFO - ================================================================================
+2025-11-06 20:47:22,175 - INFO - AP2 Data Pipeline Orchestrator
+2025-11-06 20:47:22,175 - INFO - Execution Time: 2025-11-06 20:47:22
+2025-11-06 20:47:22,175 - INFO - ================================================================================
+2025-11-06 20:47:22,175 - INFO - 
+[STEP 1/2] Running Web Scraper...
+2025-11-06 20:47:22,175 - INFO - ================================================================================
+2025-11-06 20:47:22,175 - INFO - Starting: Web Scraper (Download PDFs)
+2025-11-06 20:47:22,176 - INFO - ================================================================================
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] AP2 Financial Reports Scraper
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] Target year: latest
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] Download directory: downloads\20251106_204724
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] Website: https://ap2.se/en/news-and-reports/reports/financial-reports/
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] Setting up Chrome driver...
+2025-11-06 20:48:10,470 - INFO - [ap2_scraper.py] OK Chrome driver ready
+2025-11-06 20:48:10,471 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,471 - INFO - [ap2_scraper.py] Navigating to https://ap2.se/en/news-and-reports/reports/financial-reports/...
+2025-11-06 20:48:10,471 - INFO - [ap2_scraper.py] OK Accepted cookies
+2025-11-06 20:48:10,472 - INFO - [ap2_scraper.py] OK Found 78 reports on page
+2025-11-06 20:48:10,472 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,472 - INFO - [ap2_scraper.py] 'latest' resolved to year: 2025
+2025-11-06 20:48:10,472 - INFO - [ap2_scraper.py]   - Half-year Report 2025
+2025-11-06 20:48:10,472 - INFO - [ap2_scraper.py]   - Half-year Report 2025
+2025-11-06 20:48:10,472 - INFO - [ap2_scraper.py]   - Half-year Report 2025
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] OK Filtered to 3 reports to download
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] DOWNLOADING REPORTS
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py] [1/3] Half-year Report 2025...
+2025-11-06 20:48:10,473 - INFO - [ap2_scraper.py]   OK Downloaded: Half-year-Report-2025.pdf (2625.6 KB)
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] [2/3] Half-year Report 2025...
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py]   OK Downloaded: Half-year-Report-2025.pdf (2625.6 KB)
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] [3/3] Half-year Report 2025...
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py]   OK Downloaded: Half-year-Report-2025.pdf (2625.6 KB)
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] 
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] SCRAPER COMPLETED
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] OK Downloaded 3 reports
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] OK Location: downloads\20251106_204724
+2025-11-06 20:48:10,474 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:48:10,475 - WARNING - [ap2_scraper.py] Exception ignored in: <function Chrome.__del__ at 0x000001EE6E6149A0>
+2025-11-06 20:48:10,475 - WARNING - [ap2_scraper.py] Traceback (most recent call last):
+2025-11-06 20:48:10,475 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+2025-11-06 20:48:10,475 - WARNING - [ap2_scraper.py]     self.quit()
+2025-11-06 20:48:10,475 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+2025-11-06 20:48:10,475 - WARNING - [ap2_scraper.py]     time.sleep(0.1)
+2025-11-06 20:48:10,475 - WARNING - [ap2_scraper.py] OSError: [WinError 6] The handle is invalid
+2025-11-06 20:48:10,486 - INFO - 
+[STEP 2/2] Running PDF Parser...
+2025-11-06 20:48:10,486 - INFO - ================================================================================
+2025-11-06 20:48:10,486 - INFO - Starting: PDF Parser (Extract & Format)
+2025-11-06 20:48:10,486 - INFO - ================================================================================
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] ================================================================================
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] AP2 PDF Parser
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] ================================================================================
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] Processing folder: downloads\20251106_204724
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] Found 1 PDF files
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] 
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] 
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] Extracting from: AP2_2025_half_year.pdf
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] 
+2025-11-06 20:48:12,959 - INFO - [pdf_parser.py] ERROR: 'charmap' codec can't encode character '\u2717' in position 2: character maps to <undefined>
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py] Traceback (most recent call last):
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\pdf_parser.py", line 50, in extract_tables_from_pdf
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]     print(f"  \u2713 Extracted {len(tables)} tables")
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]     ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py] UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 2: character maps to <undefined>
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py] 
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py] During handling of the above exception, another exception occurred:
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py] 
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py] Traceback (most recent call last):
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\pdf_parser.py", line 220, in main
+2025-11-06 20:48:12,960 - WARNING - [pdf_parser.py]     tables = extract_tables_from_pdf(pdf_file)
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\pdf_parser.py", line 53, in extract_tables_from_pdf
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]     print(f"  \u2717 Error: {e}")
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]     ~~~~~^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py] UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 2: character maps to <undefined>
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py] Traceback (most recent call last):
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\pdf_parser.py", line 50, in extract_tables_from_pdf
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]     print(f"  \u2713 Extracted {len(tables)} tables")
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]     ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-11-06 20:48:12,961 - WARNING - [pdf_parser.py]            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py] UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 2: character maps to <undefined>
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py] 
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py] During handling of the above exception, another exception occurred:
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py] 
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py] Traceback (most recent call last):
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\pdf_parser.py", line 252, in <module>
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]     main()
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]     ~~~~^^
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\pdf_parser.py", line 220, in main
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]     tables = extract_tables_from_pdf(pdf_file)
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\pdf_parser.py", line 53, in extract_tables_from_pdf
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]     print(f"  \u2717 Error: {e}")
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]     ~~~~~^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,962 - WARNING - [pdf_parser.py]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+2025-11-06 20:48:12,963 - WARNING - [pdf_parser.py]     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-11-06 20:48:12,963 - WARNING - [pdf_parser.py]            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:48:12,963 - WARNING - [pdf_parser.py] UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 2: character maps to <undefined>
+2025-11-06 20:48:12,963 - ERROR - pdf_parser.py failed with return code 1
+2025-11-06 20:48:12,963 - ERROR - ================================================================================
+2025-11-06 20:48:12,963 - ERROR - Pipeline failed at Step 2: PDF Parser
+2025-11-06 20:48:12,963 - ERROR - ================================================================================

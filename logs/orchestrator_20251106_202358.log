@@ -1,0 +1,51 @@
+2025-11-06 20:23:58,131 - INFO - ================================================================================
+2025-11-06 20:23:58,132 - INFO - AP2 Data Pipeline Orchestrator
+2025-11-06 20:23:58,132 - INFO - Execution Time: 2025-11-06 20:23:58
+2025-11-06 20:23:58,132 - INFO - ================================================================================
+2025-11-06 20:23:58,132 - INFO - 
+[STEP 1/2] Running Web Scraper...
+2025-11-06 20:23:58,133 - INFO - ================================================================================
+2025-11-06 20:23:58,133 - INFO - Starting: Web Scraper (Download PDFs)
+2025-11-06 20:23:58,133 - INFO - ================================================================================
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] AP2 Financial Reports Scraper
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] Target year: 2025
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] Download directory: downloads\20251106_202359
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] Website: https://ap2.se/en/news-and-reports/reports/financial-reports/
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] 
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] Setting up Chrome driver...
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] 
+2025-11-06 20:24:18,301 - INFO - [ap2_scraper.py] ERROR: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py] Traceback (most recent call last):
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\ap2_scraper.py", line 199, in main
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]     driver = setup_driver()
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\ap2_scraper.py", line 47, in setup_driver
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]     print("\u2713 Chrome driver ready")
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]     ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py]            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py] UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2025-11-06 20:24:18,302 - WARNING - [ap2_scraper.py] Traceback (most recent call last):
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\ap2_scraper.py", line 229, in <module>
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]     main()
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]     ~~~~^^
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\ap2_scraper.py", line 199, in main
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]     driver = setup_driver()
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\Documents\SWEPENFND – AP2\ap2_scraper.py", line 47, in setup_driver
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]     print("\u2713 Chrome driver ready")
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]     ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:24:18,303 - WARNING - [ap2_scraper.py]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+2025-11-06 20:24:18,304 - WARNING - [ap2_scraper.py]     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-11-06 20:24:18,304 - WARNING - [ap2_scraper.py]            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-06 20:24:18,304 - WARNING - [ap2_scraper.py] UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2025-11-06 20:24:18,304 - WARNING - [ap2_scraper.py] Exception ignored in: <function Chrome.__del__ at 0x0000025214C449A0>
+2025-11-06 20:24:18,304 - WARNING - [ap2_scraper.py] Traceback (most recent call last):
+2025-11-06 20:24:18,304 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+2025-11-06 20:24:18,305 - WARNING - [ap2_scraper.py]   File "C:\Users\casto\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+2025-11-06 20:24:18,305 - WARNING - [ap2_scraper.py] OSError: [WinError 6] The handle is invalid
+2025-11-06 20:24:18,305 - ERROR - ap2_scraper.py failed with return code 1
+2025-11-06 20:24:18,305 - ERROR - ================================================================================
+2025-11-06 20:24:18,305 - ERROR - Pipeline failed at Step 1: Web Scraper
+2025-11-06 20:24:18,305 - ERROR - ================================================================================

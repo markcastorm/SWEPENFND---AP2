@@ -1,0 +1,583 @@
+<html dir="ltr" lang="en-GB"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0, user-scalable=yes">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://ap2.se/xmlrpc.php">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" href="https://ap2.se/nyheter-rapporter/rapporter/finansiella-rapporter/" hreflang="sv">
+<link rel="alternate" href="https://ap2.se/en/news-and-reports/reports/financial-reports/" hreflang="en">
+
+	<!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Financial reports - Andra AP-fonden</title>
+	<link rel="canonical" href="https://ap2.se/en/news-and-reports/reports/financial-reports/">
+	<meta property="og:locale" content="en_GB">
+	<meta property="og:locale:alternate" content="sv_SE">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Financial reports - Andra AP-fonden">
+	<meta property="og:description" content="AP2 publishes its financial result every sixth months. 2025 Half-year Report 2025 2024 Annual Report 2024 Half-year Report 2024 2023 Annual Report 2023 Half-year Report 2023 2022 Annual Report 2022 Half-year Report 2022 2021 Annual Report 2021 Half year report 2021 2020 Annual report 2020 Half-year report 2020 2019 Annual report 2019 Half-year report 2019 […]">
+	<meta property="og:url" content="https://ap2.se/en/news-and-reports/reports/financial-reports/">
+	<meta property="og:site_name" content="Andra AP-fonden">
+	<meta property="article:modified_time" content="2025-09-11T12:08:58+00:00">
+	<meta property="og:image" content="https://ap2.se/wp-content/uploads/2025/08/Thumbnail-half-year-2025.jpg">
+	<meta property="og:image:width" content="372">
+	<meta property="og:image:height" content="207">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Estimated reading time">
+	<meta name="twitter:data1" content="4 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://ap2.se/en/news-and-reports/reports/financial-reports/","url":"https://ap2.se/en/news-and-reports/reports/financial-reports/","name":"Financial reports - Andra AP-fonden","isPartOf":{"@id":"https://ap2.se/en/welcome-to-ap2/#website"},"primaryImageOfPage":{"@id":"https://ap2.se/en/news-and-reports/reports/financial-reports/#primaryimage"},"image":{"@id":"https://ap2.se/en/news-and-reports/reports/financial-reports/#primaryimage"},"thumbnailUrl":"https://ap2.se/wp-content/uploads/2025/08/Thumbnail-half-year-2025.jpg","datePublished":"2021-03-19T07:33:51+00:00","dateModified":"2025-09-11T12:08:58+00:00","breadcrumb":{"@id":"https://ap2.se/en/news-and-reports/reports/financial-reports/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://ap2.se/en/news-and-reports/reports/financial-reports/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://ap2.se/en/news-and-reports/reports/financial-reports/#primaryimage","url":"https://ap2.se/wp-content/uploads/2025/08/Thumbnail-half-year-2025.jpg","contentUrl":"https://ap2.se/wp-content/uploads/2025/08/Thumbnail-half-year-2025.jpg"},{"@type":"BreadcrumbList","@id":"https://ap2.se/en/news-and-reports/reports/financial-reports/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"https://ap2.se","item":"https://ap2.se/en/welcome-to-ap2/"},{"@type":"ListItem","position":2,"name":"News and reports","item":"https://ap2.se/en/news-and-reports/"},{"@type":"ListItem","position":3,"name":"Reports","item":"https://ap2.se/en/news-and-reports/reports/"},{"@type":"ListItem","position":4,"name":"Financial reports"}]},{"@type":"WebSite","@id":"https://ap2.se/en/welcome-to-ap2/#website","url":"https://ap2.se/en/welcome-to-ap2/","name":"Andra AP-fonden","description":"Förvaltning i världsklass","publisher":{"@id":"https://ap2.se/en/welcome-to-ap2/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ap2.se/en/welcome-to-ap2/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://ap2.se/en/welcome-to-ap2/#organization","name":"Andra AP-fonden","url":"https://ap2.se/en/welcome-to-ap2/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://ap2.se/en/welcome-to-ap2/#/schema/logo/image/","url":"https://ap2.se/wp-content/uploads/2021/06/cropped-ap2-favicon.png","contentUrl":"https://ap2.se/wp-content/uploads/2021/06/cropped-ap2-favicon.png","width":512,"height":512,"caption":"Andra AP-fonden"},"image":{"@id":"https://ap2.se/en/welcome-to-ap2/#/schema/logo/image/"},"sameAs":["https://www.linkedin.com/company/ap2-andra-ap-fonden"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Andra AP-fonden » Feed" href="https://ap2.se/en/feed/">
+<link rel="alternate" type="application/rss+xml" title="Andra AP-fonden » Comments Feed" href="https://ap2.se/en/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://ap2.se/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="pb-accordion-blocks-style-css" href="https://ap2.se/wp-content/plugins/accordion-blocks/build/index.css?ver=1.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="cmplz-general-css" href="https://ap2.se/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1758195812" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://ap2.se/wp-content/themes/sceleton/style.css?ver=6.8.3" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="https://ap2.se/wp-content/themes/sceleton/custom.css?ver=6.8.3" type="text/css" media="all">
+<script type="text/javascript" src="https://ap2.se/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://ap2.se/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://ap2.se/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://ap2.se/wp-json/wp/v2/pages/1204"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ap2.se/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.8.3">
+<link rel="shortlink" href="https://ap2.se/?p=1204">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ap2.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fap2.se%2Fen%2Fnews-and-reports%2Freports%2Ffinancial-reports%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ap2.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fap2.se%2Fen%2Fnews-and-reports%2Freports%2Ffinancial-reports%2F&amp;format=xml">
+			<style>.cmplz-hidden {
+					display: none !important;
+				}</style><!-- Analytics by WP Statistics - https://wp-statistics.com -->
+<link rel="icon" href="https://ap2.se/wp-content/uploads/2021/06/cropped-ap2-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="https://ap2.se/wp-content/uploads/2021/06/cropped-ap2-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://ap2.se/wp-content/uploads/2021/06/cropped-ap2-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="https://ap2.se/wp-content/uploads/2021/06/cropped-ap2-favicon-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			.kapital-block h2{
+	margin-top:0px!important;
+}		</style>
+		<link href="https://ap2.se/wp-content/uploads/complianz/css/banner-1-optin.css?v=19" type="text/css" rel="stylesheet"></head>
+
+<body data-cmplz="1" class="wp-singular page-template-default page page-id-1204 page-child parent-pageid-275 wp-theme-sceleton cmplz-marketing cmplz-statistics cmplz-preferences cmplz-functional cmplz-eu cmplz-optin" data-new-gr-c-s-check-loaded="14.1261.0" data-gr-ext-installed=""><div></div><div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner banner-1 bottom-right-view-preferences optin cmplz-center cmplz-categories-type-view-preferences cmplz-dismissed" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Manage Cookie Consent</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialogue">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Functional</span>
+							<span class="cmplz-always-active">
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox" id="cmplz-functional-optin" data-category="cmplz_functional" class="cmplz-consent-checkbox cmplz-functional" size="40" value="1">
+									<label class="cmplz-label" for="cmplz-functional-optin"><span class="screen-reader-text">Functional</span></label>
+								</span>
+								Always active							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-preferences-optin" data-category="cmplz_preferences" class="cmplz-consent-checkbox cmplz-preferences" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-preferences-optin"><span class="screen-reader-text">Preferences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistics</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-statistics-optin" data-category="cmplz_statistics" class="cmplz-consent-checkbox cmplz-statistics" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-statistics-optin"><span class="screen-reader-text">Statistics</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-marketing-optin" data-category="cmplz_marketing" class="cmplz-consent-checkbox cmplz-marketing" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-marketing-optin"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="https://ap2.se/en/about-this-site/#cmplz-manage-consent-container" data-relative_url="#cmplz-manage-consent-container">Manage options</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="https://ap2.se/en/about-this-site/#cmplz-cookies-overview" data-relative_url="#cmplz-cookies-overview">Manage services</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="https://ap2.se/en/about-this-site/#cmplz-tcf-wrapper" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Read more about these purposes</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accept</button>
+		<button class="cmplz-btn cmplz-deny">Deny</button>
+		<button class="cmplz-btn cmplz-view-preferences">View preferences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Save preferences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="https://ap2.se/en/about-this-site/#cmplz-manage-consent-container" data-relative_url="#cmplz-manage-consent-container">View preferences</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="https://ap2.se/en/about-this-site/" data-relative_url="">About this site</a>
+		<a class="cmplz-link privacy-statement" href="https://ap2.se/en/about-ap2/processing-of-personal-data/" data-relative_url="">Privacy Notice</a>
+		<a class="cmplz-link impressum cmplz-hidden" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+
+    <header class="navbar is-spaced">
+        <a class="skip is-sr-only is-sr-focusable" href="#main">
+            <span class="is-block">
+                Skip to main content            </span>
+        </a>
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="https://ap2.se/en/welcome-to-ap2/">
+                    <img src="https://ap2.se/wp-content/themes/sceleton/includes/images/ap2_logo.svg" alt="Andra AP-fondens logo, link to homepage">
+                </a>
+                <span class="navbar-burger-title">
+                    Menu                </span>
+                <button class="navbar-burger burger" aria-label="Menu" aria-expanded="false" data-target="nav-primary">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <nav id="nav-primary" class="navbar-menu" aria-label="Mainmenu">
+                                    <ul class="navbar-start">
+                        <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://ap2.se/en/about-ap2/">About AP2</a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="https://ap2.se/en/asset-management/">Asset management</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://ap2.se/en/sustainability-and-corporate-governance/">Sustainability</a></li>
+<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-266"><a href="https://ap2.se/en/news-and-reports/">News and reports</a></li>
+<li id="menu-item-3308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3308"><a href="https://ap2.se/en/about-ap2/career/">Career</a></li>
+<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="https://ap2.se/en/contacts/">Contacts</a></li>
+                    </ul>
+                
+                                    <ul class="navbar-end">
+                        <li class="navbar-item">
+                            <form role="search" method="get" class="search-form" action="https://ap2.se/en/welcome-to-ap2/">
+                                <label for="navigation-search-form" class="is-sr-only">
+                                    Search                                </label>
+                                <div class="field has-addons">
+                                    <div class="control">
+                                        <input id="navigation-search-form" type="search" class="input" placeholder="Search ..." value="" name="s">
+                                    </div>
+                                    <div class="control">
+                                        <button type="submit" class="button has-search-icon">
+                                            <span class="is-sr-only">
+                                                Search                                            </span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                    </li>
+                        <li id="menu-item-75-sv" class="lang-item lang-item-7 lang-item-sv lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-75-sv"><a href="https://ap2.se/nyheter-rapporter/rapporter/finansiella-rapporter/" hreflang="sv-SE" lang="sv-SE">SV</a></li>
+<li id="menu-item-75-en" class="lang-item lang-item-10 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-75-en"><a href="https://ap2.se/en/news-and-reports/reports/financial-reports/" hreflang="en-GB" lang="en-GB">EN</a></li>
+                    </ul>
+                            </nav>
+        </div>
+    </header>
+
+
+    <div class="main section">
+<div class="container">
+	<div class="columns">
+
+					<div class="sidebar column is-3">
+				<nav class="sidebar-menu" aria-label="">
+					<ul>
+					<li class="page_item page-item-267"><a href="https://ap2.se/en/news-and-reports/news/">News</a></li>
+<li class="page_item page-item-271"><a href="https://ap2.se/en/news-and-reports/press-releases/">Press releases</a></li>
+<li class="page_item page-item-275 page_item_has_children current_page_ancestor current_page_parent"><span class="toggle-submenu submenu-open"></span><a href="https://ap2.se/en/news-and-reports/reports/">Reports</a>
+<ul class="children">
+	<li class="page_item page-item-1204 current_page_item"><a href="https://ap2.se/en/news-and-reports/reports/financial-reports/" aria-current="page">Financial reports</a></li>
+	<li class="page_item page-item-1206"><a href="https://ap2.se/en/news-and-reports/reports/sustainability-and-corporate-governance-reports/">Sustainability</a></li>
+	<li class="page_item page-item-3393"><a href="https://ap2.se/en/news-and-reports/reports/financial-definitions/">Glossary</a></li>
+</ul>
+</li>
+<li class="page_item page-item-1210"><a href="https://ap2.se/en/news-and-reports/subscribe/">Subscribe</a></li>
+<li class="page_item page-item-1212"><a href="https://ap2.se/en/news-and-reports/picture-archive/">Picture archive</a></li>
+					</ul>
+				</nav>
+			</div>
+				
+		<main id="main" class="main column is-6">
+			<div class="content">
+				
+					<div class="page-header">
+						<h1 class="title">Financial reports</h1>
+					</div>
+
+					
+<p>AP2 publishes its financial result every sixth months.</p>
+
+
+
+<h2 class="wp-block-heading">2025</h2>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img fetchpriority="high" decoding="async" width="372" height="207" src="https://ap2.se/wp-content/uploads/2025/08/Thumbnail-half-year-2025.jpg" alt="" class="wp-image-6638 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2025/09/Half-year-Report-2025.pdf">Half-year Report 2025</a></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">2024</h2>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="548" height="308" src="https://ap2.se/wp-content/uploads/2025/03/AR24-GB_thumbnail.jpg" alt="" class="wp-image-6437 size-full" srcset="https://ap2.se/wp-content/uploads/2025/03/AR24-GB_thumbnail.jpg 548w, https://ap2.se/wp-content/uploads/2025/03/AR24-GB_thumbnail-500x281.jpg 500w" sizes="(max-width: 548px) 100vw, 548px"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2025/03/Annual-Report-2024.pdf">Annual Report 2024</a></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="370" height="260" src="https://ap2.se/wp-content/uploads/2024/08/Half-year-report-2024_thumbnail.jpg" alt="" class="wp-image-6071 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2024/08/Half-year-Report-2024.pdf">Half-year Report 2024</a></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">2023</h2>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="707" height="393" src="https://ap2.se/wp-content/uploads/2024/02/Thumbnail-annual-report-2023-1.jpg" alt="" class="wp-image-5426 size-full" srcset="https://ap2.se/wp-content/uploads/2024/02/Thumbnail-annual-report-2023-1.jpg 707w, https://ap2.se/wp-content/uploads/2024/02/Thumbnail-annual-report-2023-1-500x278.jpg 500w" sizes="auto, (max-width: 707px) 100vw, 707px"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2024/02/Annual-report-2023.pdf">Annual Report 2023</a></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="321" height="224" src="https://ap2.se/wp-content/uploads/2023/08/Half-year-report-2023_thumbnail.jpg" alt="" class="wp-image-4780 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2023/08/Half-year-Report-2023.pdf">Half-year Report 2023</a></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">2022</h2>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="372" height="263" src="https://ap2.se/wp-content/uploads/2023/03/Thumbnail-AR22.png" alt="" class="wp-image-4421 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2023/03/Annual-report-2022.pdf">Annual Report 2022</a></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="314" height="217" src="https://ap2.se/wp-content/uploads/2022/08/Half-year-report-2022_thumbnail.jpg" alt="" class="wp-image-3786 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2022/08/Half-year-Report-2022.pdf">Half-year Report 2022</a></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">2021</h2>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="365" height="256" src="https://ap2.se/wp-content/uploads/2022/09/AR21-1.jpg" alt="" class="wp-image-3895 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2022/03/Annual-Report-2021.pdf">Annual Report 2021</a></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="363" height="256" src="https://ap2.se/wp-content/uploads/2022/09/Halvar21-1.jpg" alt="" class="wp-image-3896 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2021/08/Half_year_report_2021.pdf">Half year report 2021</a></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">2020</h2>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:39% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="366" height="258" src="https://ap2.se/wp-content/uploads/2022/09/AR20-1.jpg" alt="" class="wp-image-3908 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2021/11/Annual-Report-2020.pdf">Annual report 2020</a></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:27% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="273" height="354" src="https://ap2.se/wp-content/uploads/2022/09/Halvar20-2.jpg" alt="" class="wp-image-3914 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2020.pdf">Half-year report 2020</a></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">2019</h2>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:27% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="273" height="355" src="https://ap2.se/wp-content/uploads/2022/09/AR19.jpg" alt="" class="wp-image-3918 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2019.pdf">Annual report 2019</a></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:27% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="274" height="355" src="https://ap2.se/wp-content/uploads/2022/09/Halvar19.jpg" alt="" class="wp-image-3920 size-full"></figure><div class="wp-block-media-text__content">
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2019.pdf">Half-year report 2019</a></p>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">2018</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-and-sustainability-report-2018.pdf">Annual and Sustainability report 2018</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2018.pdf">Half-year report 2018</a></p>
+
+
+
+<h2 class="wp-block-heading">2017</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-and-sustainability-report-2017.pdf">Annual and Sustainability report 2017</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2017.pdf">Half-year report 2017</a></p>
+
+
+
+<h2 class="wp-block-heading">2016</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2016.pdf">Annual report 2016</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2016_160915_gb.pdf">Half-year report 2016</a></p>
+
+
+
+<h2 class="wp-block-heading">2015</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2015.pdf">Annual report 2015</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2015.pdf">Half-year report 2015</a></p>
+
+
+
+<h2 class="wp-block-heading">2014</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2014.pdf">Annual report 2014</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2014.pdf">Half-year report 2014</a></p>
+
+
+
+<h2 class="wp-block-heading">2013</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2013.pdf">Annual report 2013</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2013.pdf">Half-year report 2013</a></p>
+
+
+
+<h2 class="wp-block-heading">2012</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2012.pdf">Annual report 2012</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2012.pdf">Half-year report 2012</a></p>
+
+
+
+<h2 class="wp-block-heading">2011</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2011.pdf">Annual report 2011</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2011.pdf">Half-year report 2011</a></p>
+
+
+
+<h2 class="wp-block-heading">2010</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2010.pdf">Annual report 2010</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2010.pdf">Half-year report 2010</a></p>
+
+
+
+<h2 class="wp-block-heading">2009</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2009.pdf">Annual report 2009</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2009.pdf">Half-year report 2009</a></p>
+
+
+
+<h2 class="wp-block-heading">2008</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2008_1.pdf">Annual report part 1 2008</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2008_2.pdf">Annual report part 2 2008</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2008.pdf">Half-year report 2008</a></p>
+
+
+
+<h2 class="wp-block-heading">2007</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2007_1.pdf">Annual report part 1 2007</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2007_2.pdf">Annual report part 2 2007</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2007.pdf">Half-year report 2007</a></p>
+
+
+
+<h2 class="wp-block-heading">2006</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2006_1.pdf">Annual report part 1 2006</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2006_2.pdf">Annual report part 2 2006</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2006.pdf">Half-year report 2006</a></p>
+
+
+
+<h2 class="wp-block-heading">2005</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2005.pdf">Annual report 2005</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2005.pdf">Half-year report 2005</a></p>
+
+
+
+<h2 class="wp-block-heading">2004</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2004.pdf">Annual report 2004</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2004.pdf">Half-year report 2004</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/year-end-report-2004.pdf">Year-end report 2004</a></p>
+
+
+
+<h2 class="wp-block-heading">2003</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2003.pdf">Annual report 2003</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/half-year-report-2003.pdf">Half-year report 2003</a></p>
+
+
+
+<h2 class="wp-block-heading">2002</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2002.pdf">Annual report 2002</a><br><a href="https://ap2.se/wp-content/uploads/2021/03/year-end-report-2002.pdf">Year-end report 2002</a></p>
+
+
+
+<h2 class="wp-block-heading">2001</h2>
+
+
+
+<p><a href="https://ap2.se/wp-content/uploads/2021/03/annual-report-2001.pdf">Annual report 2001</a></p>
+
+
+
+<p></p>
+							</div>
+		</main>
+
+		<div class="sidebar-right column is-3">
+				</div>
+
+	</div>
+</div>
+
+</div>
+<footer class="footer section">
+	<div class="container">
+		<div class="columns">
+			<section class="widget column is-6 text-5 widget_text"><h2 class="title is-4">Andra AP-fonden / AP2</h2>			<div class="textwidget"><p>Box 11155, SE 404 24 Göteborg</p>
+<p>Telephone:&nbsp;<a class="link-inverted--white" href="tel:0046317042900">+46 31-704 29 00</a></p>
+<p>Email:&nbsp;<a class="link-inverted--white" href="mailto:info@ap2.se">info@ap2.se</a></p>
+</div>
+		</section><section class="widget column is-6 nav_menu-4 widget_nav_menu"><h2 class="title is-4">Easy find</h2><div class="menu-easy-find-container"><ul id="menu-easy-find" class="menu"><li id="menu-item-2235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2235"><a href="https://ap2.se/en/about-this-site/">About this site</a></li>
+<li id="menu-item-763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-763"><a rel="privacy-policy" href="https://ap2.se/en/about-ap2/processing-of-personal-data/">Privacy Notice</a></li>
+<li id="menu-item-761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-761"><a href="https://www.linkedin.com/company/ap2-andra-ap-fonden">Follow us on LinkedIn</a></li>
+</ul></div></section>		</div>
+		<div class="columns">
+			<div class="column is-12">
+				<section class="widget text-2 widget_text">			<div class="textwidget"><p>© 2023, Andra AP-fonden</p>
+</div>
+		</section>			</div>
+		</div>
+	</div>
+</footer>
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/sceleton\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show">Manage consent</button>
+
+</div><script type="text/javascript" src="https://ap2.se/wp-content/plugins/accordion-blocks/js/accordion-blocks.min.js?ver=1.5.0" id="pb-accordion-blocks-frontend-script-js"></script>
+<script type="text/javascript" id="link-tracker-public-js-js-extra">
+/* <![CDATA[ */
+var lt_object = {"ajax_url":"https:\/\/ap2.se\/wp-admin\/admin-ajax.php","security":"2556f28ff7"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ap2.se/wp-content/plugins/link-tracker/assets/js/lt-public.js?ver=link-tracker" id="link-tracker-public-js-js"></script>
+<script type="text/javascript" src="https://ap2.se/wp-content/themes/sceleton/includes/js/script.js?ver=6.8.3" id="script-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"0","banner_version":"19","version":"7.4.2","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/ap2.se\/wp-json\/complianz\/v1\/","locale":"lang=en&locale=en_GB","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"15","cookie_path":"\/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"https:\/\/ap2.se\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=19","page_links":{"eu":{"cookie-statement":{"title":"About this site","url":"https:\/\/ap2.se\/en\/about-this-site\/"},"privacy-statement":{"title":"Privacy Notice","url":"https:\/\/ap2.se\/en\/about-ap2\/processing-of-personal-data\/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content"};
+/* ]]> */
+</script>
+<script defer="" type="text/javascript" src="https://ap2.se/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1758195812" id="cmplz-cookiebanner-js"></script>
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

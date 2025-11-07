@@ -1,0 +1,55 @@
+2025-11-06 20:59:31,779 - INFO - ================================================================================
+2025-11-06 20:59:31,779 - INFO - AP2 Data Pipeline Orchestrator
+2025-11-06 20:59:31,780 - INFO - Execution Time: 2025-11-06 20:59:31
+2025-11-06 20:59:31,780 - INFO - ================================================================================
+2025-11-06 20:59:31,780 - INFO - 
+[STEP 1/2] Running Web Scraper...
+2025-11-06 20:59:31,780 - INFO - ================================================================================
+2025-11-06 20:59:31,780 - INFO - Starting: Web Scraper (Download PDFs)
+2025-11-06 20:59:31,781 - INFO - ================================================================================
+2025-11-06 21:00:37,457 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 21:00:37,457 - INFO - [ap2_scraper.py] AP2 Financial Reports Scraper
+2025-11-06 21:00:37,458 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 21:00:37,458 - INFO - [ap2_scraper.py] Target year: latest
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] Download directory: downloads\20251106_205933
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] Website: https://ap2.se/en/news-and-reports/reports/financial-reports/
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] Setting up Chrome driver...
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] OK Chrome driver ready
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] Navigating to https://ap2.se/en/news-and-reports/reports/financial-reports/...
+2025-11-06 21:00:37,459 - INFO - [ap2_scraper.py] OK Accepted cookies
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py] OK Found 78 reports on page
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py] 'latest' resolved to year: 2025
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py]   - Half-year Report 2025
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py]   - Half-year Report 2025
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py]   - Half-year Report 2025
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py] OK Filtered to 3 reports to download
+2025-11-06 21:00:37,460 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] DOWNLOADING REPORTS
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] [1/3] Half-year Report 2025...
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py]   OK Downloaded: Half-year-Report-2025.pdf (2625.6 KB)
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] [2/3] Half-year Report 2025...
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py]   OK Downloaded: Half-year-Report-2025.pdf (2625.6 KB)
+2025-11-06 21:00:37,461 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] [3/3] Half-year Report 2025...
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py]   OK Downloaded: Half-year-Report-2025.pdf (2625.6 KB)
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] 
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] SCRAPER COMPLETED
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] OK Downloaded 3 reports
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] OK Location: downloads\20251106_205933
+2025-11-06 21:00:37,462 - INFO - [ap2_scraper.py] ================================================================================
+2025-11-06 21:00:37,463 - INFO - OK Web Scraper (Download PDFs) completed successfully
+2025-11-06 21:00:37,463 - INFO - 
+[STEP 2/2] Running PDF Parser...
+2025-11-06 21:00:37,463 - INFO - ================================================================================
+2025-11-06 21:00:37,463 - INFO - Starting: PDF Parser (Extract & Format)
+2025-11-06 21:00:37,463 - INFO - ================================================================================
