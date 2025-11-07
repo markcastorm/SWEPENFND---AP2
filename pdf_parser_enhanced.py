@@ -14,6 +14,7 @@ import re
 import logging
 
 import config
+from llm_extractor import extract_balance_sheet_llm, extract_key_ratios_llm
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -390,6 +391,30 @@ def extract_key_ratios(pdf_path):
                             data['FUNDCAPITALCARRIEDFORWARDLEVEL'] = value
                             logger.info(f"    [OK] Fund capital brought forward (LEVEL) [Regex]: {value}")
 
+        # LLM fallback if we still have missing fields
+        if len(data) < 3:
+            missing_count = 3 - len(data)
+            logger.info(f"  Trying LLM fallback for missing {missing_count} Key Ratios fields...")
+
+            # Find key ratios page again for LLM
+            doc = fitz.open(pdf_path)
+            key_ratios_page_for_llm = None
+            for page_num in range(len(doc)):
+                page = doc[page_num]
+                text = page.get_text().lower()
+                if 'key ratios' in text or 'key ratio' in text:
+                    key_ratios_page_for_llm = page_num + 1
+                    break
+            doc.close()
+
+            if key_ratios_page_for_llm:
+                llm_data = extract_key_ratios_llm(pdf_path, key_ratios_page_for_llm)
+
+                # Merge LLM data (fill missing fields only)
+                for key, value in llm_data.items():
+                    if key not in data:
+                        data[key] = value
+
         logger.info(f"    [INFO] Extracted {len(data)}/3 Key Ratios fields")
         return data
 
@@ -525,12 +550,26 @@ def parse_balance_sheet_adaptive(pdf_path, year):
         logger.info("  Trying PyMuPDF as fallback...")
         df = extract_balance_sheet_with_pymupdf(pdf_path, page_num)
 
-    if df is None:
-        logger.error("  All table extraction methods failed")
-        return {}
+    # Step 4: Parse data from table (if we got one)
+    data = {}
+    if df is not None:
+        data = parse_balance_sheet_from_table(df)
 
-    # Step 4: Parse data from table
-    data = parse_balance_sheet_from_table(df)
+    # Step 5: LLM fallback if traditional methods failed or incomplete
+    if len(data) < 17:  # Less than 17 Balance Sheet fields
+        missing_count = 17 - len(data)
+        if len(data) == 0:
+            logger.warning("  All table extraction methods failed")
+        else:
+            logger.warning(f"  Table extraction incomplete ({len(data)}/17 fields)")
+
+        logger.info(f"  Trying LLM fallback for missing {missing_count} fields...")
+        llm_data = extract_balance_sheet_llm(pdf_path, page_num)
+
+        # Merge LLM data (LLM fills missing fields, doesn't override existing ones)
+        for key, value in llm_data.items():
+            if key not in data:
+                data[key] = value
 
     # Step 5: Extract Key Ratios data
     key_ratios_data = extract_key_ratios(pdf_path)
