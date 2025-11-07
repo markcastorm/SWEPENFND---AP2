@@ -346,6 +346,37 @@ def extract_key_ratios(pdf_path):
                     data['NETOUTFLOWSTOTHENATIONALPENSIONSYSTEM'] = value
                     logger.info(f"    [OK] Net outflows to pension system: {value}")
 
+        # If table parsing fails, try regex on raw text as a fallback for older years
+        if len(data) < 3:
+            logger.info("  Table parsing for Key Ratios failed, trying regex fallback...")
+            page_text = ""
+            try:
+                doc = fitz.open(pdf_path)
+                page = doc[key_ratios_page - 1]
+                page_text = page.get_text().lower()
+                doc.close()
+            except Exception as e:
+                logger.warning(f"    Could not get page text for regex fallback: {e}")
+
+            if page_text:
+                # Regex for: "The result amounted to SEK 19.4 billion"
+                if 'TOTAL' not in data:
+                    match = re.search(r'(?:the\s+)?result amounted to sek ([\d.]+)', page_text, re.IGNORECASE)
+                    if match:
+                        value = clean_number_string(match.group(1), allow_decimal=True)
+                        if value is not None:
+                            data['TOTAL'] = value
+                            logger.info(f"    [OK] Net result for the year (TOTAL) [Regex]: {value}")
+
+                # Regex for: "net outflow of SEK -2.6 (-2.0) billion"
+                if 'NETOUTFLOWSTOTHENATIONALPENSIONSYSTEM' not in data:
+                    match = re.search(r'net outflow of sek ([\d.-]+)', page_text, re.IGNORECASE)
+                    if match:
+                        value = clean_number_string(match.group(1), allow_decimal=True)
+                        if value is not None:
+                            data['NETOUTFLOWSTOTHENATIONALPENSIONSYSTEM'] = value
+                            logger.info(f"    [OK] Net outflows to pension system [Regex]: {value}")
+
         logger.info(f"    [INFO] Extracted {len(data)}/3 Key Ratios fields")
         return data
 

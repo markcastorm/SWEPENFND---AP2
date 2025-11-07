@@ -2,7 +2,7 @@
 import camelot
 import fitz
 
-pdf_path = r"downloads\20251107_151315\AP2_2024_half_year.pdf"
+pdf_path = r"downloads\20251107_163821\AP2_2023_half_year.pdf"
 
 print("=" * 80)
 print("SEARCHING FOR KEY RATIOS PAGE")
