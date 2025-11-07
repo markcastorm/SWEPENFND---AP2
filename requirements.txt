@@ -7,11 +7,12 @@ undetected-chromedriver>=3.5.4
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
 
-# PDF Processing
-pdfplumber>=0.10.0
-PyPDF2>=3.0.0
-tabula-py>=2.9.0
-camelot-py[cv]>=0.11.0
+# PDF Processing - Enhanced table extraction
+PyMuPDF>=1.23.0  # fitz - Primary table extraction
+pdfplumber>=0.10.0  # Text extraction fallback
+camelot-py[cv]>=0.11.0  # Advanced table detection
+PyPDF2>=3.0.0  # PDF utilities
+tabula-py>=2.9.0  # Alternative table extraction
 
 # Data Processing
 pandas>=2.0.0
@@ -24,5 +25,5 @@ python-dateutil>=2.8.0
 
 # Optional but recommended
 # For better PDF parsing on complex documents
-# opencv-python>=4.8.0
-# pytesseract>=0.3.10
+opencv-python>=4.8.0
+pytesseract>=0.3.10

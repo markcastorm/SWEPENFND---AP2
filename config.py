@@ -30,6 +30,31 @@ OUTPUT_HEADERS = [
     'AP2.TOTALFUNDCAPITALANDLIABILITIES.FLOW.NONE.H.1@AP2'
 ]
 
+# Human-readable sub-headers (Row 2 in Excel) - EXACT match to sample
+OUTPUT_SUBHEADERS = [
+    None,  # First column has no sub-header
+    'AP2 semi-annual: Fund capital carried forward',
+    'AP2 semi-annual: Net outflows to the national pension system',
+    'AP2 semi-annual: Net result for the year',
+    'AP2 semi-annual: Balance - Equities and participations - Listed',
+    'AP2 semi-annual: Balance - Equities and participations - Unlisted',
+    'AP2 semi-annual: Balance - Bonds and other fixed-income securities',
+    'AP2 semi-annual: Balance - Derivative instruments',
+    'AP2 semi-annual: Balance - Cash and bank balances',
+    'AP2 semi-annual: Balance - Other assets',
+    'AP2 semi-annual: Balance - Prepaid expenses and accrued income',
+    'AP2 semi-annual: Balance - Total Assets',
+    'AP2 semi-annual: Balance - Derivative instruments (liabilities)',
+    'AP2 semi-annual: Balance - Other liabilities',
+    'AP2 semi-annual: Balance - Deferred income and accrued expenses',
+    'AP2 semi-annual: Balance - Total liabilities',
+    'AP2 semi-annual: Balance - Fund capital carried forward',
+    'AP2 semi-annual: Balance - Net payments to the national pension system',
+    'AP2 semi-annual: Balance - Net result for the period',
+    'AP2 semi-annual: Balance - Total Fund capital',
+    'AP2 semi-annual: Balance - Total Fund capital and other Liabilities'
+]
+
 # Readable header mapping for reference
 HEADER_MAPPING = {
     'Fund Capital Carried Forward (Level)': 'AP2.FUNDCAPITALCARRIEDFORWARD.LEVEL.NONE.H.1@AP2',
