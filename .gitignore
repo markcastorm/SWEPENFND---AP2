@@ -127,9 +127,47 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Project-specific ignores
-logs/
-downloads/
-output/
+# ============================================================================
+# AP2 PROJECT-SPECIFIC IGNORES
+# ============================================================================
+
+# Output folders (keep structure, ignore contents)
+logs/*
+!logs/.gitkeep
+downloads/*
+!downloads/.gitkeep
+output/*
+!output/.gitkeep
+
+# State files
 orchestrator_state.json
-*.cpython-*.pyc
+
+# Downloaded PDFs
+*.pdf
+
+# Generated Excel files (except sample data in project information folder)
+*.xlsx
+*.csv
+!project\ information/*.xlsx
+!project\ information/*.csv
+
+# Archive folder contents (keep old scripts locally only)
+archive/*.py
+archive/*.pdf
+archive/*.xlsx
+
+# Temporary analysis files
+*.tmp
+
+# Camelot temp files
+.camelot/
+
+# IDE-specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
