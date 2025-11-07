@@ -84,13 +84,13 @@ def main():
 
     start_time = datetime.now()
 
-    # Step 1: Run Scraper
-    logger.info("\n[STEP 1/2] Running Web Scraper...")
-    scraper_success = run_script('ap2_scraper.py', 'Web Scraper (Download PDFs)')
+    # Step 1: Run Downloader
+    logger.info("\n[STEP 1/2] Running Web Scraper (Downloader)...")
+    downloader_success = run_script('ap2_downloader.py', 'Web Scraper (Download PDFs)')
 
-    if not scraper_success:
+    if not downloader_success:
         logger.error("=" * 80)
-        logger.error("Pipeline failed at Step 1: Web Scraper")
+        logger.error("Pipeline failed at Step 1: Web Scraper (Downloader)")
         logger.error("=" * 80)
         sys.exit(1)
 

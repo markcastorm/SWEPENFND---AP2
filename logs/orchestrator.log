@@ -1,9 +1,0 @@
-2025-11-06 19:50:45,814 - Orchestrator - INFO - ================================================================================
-2025-11-06 19:50:45,815 - Orchestrator - INFO - ORCHESTRATOR - Starting new scraper run
-2025-11-06 19:50:45,815 - Orchestrator - INFO - ================================================================================
-2025-11-06 19:50:45,816 - Orchestrator - INFO - Run timestamp: 20251106_195045
-2025-11-06 19:50:45,816 - Orchestrator - INFO - Target year: 2025
-2025-11-06 19:50:45,816 - Orchestrator - INFO - Report types: ['annual', 'half_year']
-2025-11-06 19:51:10,491 - Orchestrator - INFO - ================================================================================
-2025-11-06 19:51:10,495 - Orchestrator - INFO - ORCHESTRATOR - Run completed successfully
-2025-11-06 19:51:10,496 - Orchestrator - INFO - ================================================================================
