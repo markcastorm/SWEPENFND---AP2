@@ -111,19 +111,30 @@ TEXT TO EXTRACT FROM:
             logger.debug("  LLM extraction disabled (no API key or disabled in .env)")
             return {}
 
-        prompt = f"""Extract the following 3 Key Ratios fields from this Swedish pension fund report text. Return ONLY a JSON object with these exact field names and their numeric values (in SEK billion):
+        prompt = f"""You are extracting financial data from a Swedish pension fund report. The report may contain tables with multiple columns showing different time periods.
 
-Required fields:
-- FUNDCAPITALCARRIEDFORWARDLEVEL (Fund capital carried forward / brought forward - opening balance)
-- NETOUTFLOWSTOTHENATIONALPENSIONSYSTEM (Net outflows/payments to pension system - usually negative)
-- TOTAL (Net result for the period/year)
+STEP 1: Identify the table structure
+- Look for column headers indicating time periods (e.g., "Jan.-June 2020", "Jan.-June 2019", "Jan.-Dec. 2019")
+- The FIRST column (leftmost) after the row labels contains the CURRENT PERIOD data
+- Other columns are comparison data from PREVIOUS periods - IGNORE THESE
 
-IMPORTANT NOTES:
-1. All values should be in SEK BILLION
-2. If source shows "SEK million", divide by 1000 to get billions
-3. Preserve negative signs (net outflows are typically negative)
-4. For "Fund capital", prefer "CARRIED forward" (closing balance of previous period) over "BROUGHT forward"
-5. Return ONLY valid JSON, no markdown, no explanations
+STEP 2: Extract these 3 fields (return as JSON):
+- FUNDCAPITALCARRIEDFORWARDLEVEL: Look for "Fund capital carried forward" (preferred) or "Fund capital brought forward". Extract the FIRST numeric value that appears after this label.
+- NETOUTFLOWSTOTHENATIONALPENSIONSYSTEM: Look for "Net outflows to the national pension system". Extract the FIRST numeric value (may be negative).
+- TOTAL: Look for "Net result for the period" or "Net result for the year". Extract the FIRST numeric value (may be negative).
+
+STEP 3: Format rules
+- All values must be in SEK BILLION
+- Preserve negative signs (e.g., -4.2 not 4.2)
+- Return ONLY a valid JSON object like: {{"FUNDCAPITALCARRIEDFORWARDLEVEL": 357.9, "NETOUTFLOWSTOTHENATIONALPENSIONSYSTEM": -4.2, "TOTAL": -19.3}}
+
+CRITICAL: When you see multiple numbers after a field name, take the FIRST one (current period), not subsequent ones (comparison periods).
+
+Example from text:
+"Fund capital carried forward, SEK billion
+357.9    367.4    381.3"
+→ Extract: 357.9 (first value = current period)
+NOT 381.3 (third value = old comparison period)
 
 TEXT TO EXTRACT FROM:
 {text}"""
@@ -192,6 +203,13 @@ TEXT TO EXTRACT FROM:
 
         # Remove markdown code blocks if present
         content = content.replace('```json', '').replace('```', '').strip()
+
+        # Extract JSON from response (in case model adds extra text)
+        # Look for first { and last }
+        start_idx = content.find('{')
+        end_idx = content.rfind('}')
+        if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
+            content = content[start_idx:end_idx+1]
 
         return content
 

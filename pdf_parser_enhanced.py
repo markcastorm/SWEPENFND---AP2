@@ -386,17 +386,8 @@ def extract_key_ratios(pdf_path):
                             data['NETOUTFLOWSTOTHENATIONALPENSIONSYSTEM'] = value
                             logger.info(f"    [OK] Net outflows to pension system [Regex]: {value}")
 
-                # Regex for: "fund capital brought forward, sek billion \n 407.1"
-                # Note: We specifically want "BROUGHT forward" (opening balance), not "CARRIED forward" (closing)
-                # Handle case where value is on next line
-                if 'FUNDCAPITALCARRIEDFORWARDLEVEL' not in data:
-                    # Try "brought forward" first (opening balance - what we need for LEVEL)
-                    match = re.search(r'fund capital brought forward.*?sek billion.*?\n.*?([\d.]+)', page_text, re.IGNORECASE | re.DOTALL)
-                    if match:
-                        value = clean_number_string(match.group(1), allow_decimal=True)
-                        if value is not None:
-                            data['FUNDCAPITALCARRIEDFORWARDLEVEL'] = value
-                            logger.info(f"    [OK] Fund capital brought forward (LEVEL) [Regex]: {value}")
+                # REMOVED problematic regex for fund capital that was picking wrong column
+                # LLM extraction is more reliable for multi-column tables (e.g., 2020 format)
 
         # LLM fallback if we still have missing fields
         if len(data) < 3:
