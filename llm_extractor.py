@@ -122,7 +122,7 @@ IMPORTANT NOTES:
 1. All values should be in SEK BILLION
 2. If source shows "SEK million", divide by 1000 to get billions
 3. Preserve negative signs (net outflows are typically negative)
-4. For "Fund capital", use the OPENING balance (brought forward), NOT closing balance
+4. For "Fund capital", prefer "CARRIED forward" (closing balance of previous period) over "BROUGHT forward"
 5. Return ONLY valid JSON, no markdown, no explanations
 
 TEXT TO EXTRACT FROM:

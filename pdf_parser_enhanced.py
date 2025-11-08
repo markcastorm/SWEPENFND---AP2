@@ -326,13 +326,20 @@ def extract_key_ratios(pdf_path):
         for idx, row in df.iterrows():
             field_name = str(row.iloc[0]).strip().lower() if not pd.isna(row.iloc[0]) else ""
 
-            # Fund capital brought/carried forward (LEVEL - in billions)
-            # Note: 2023 uses "brought forward", 2025 uses "carried forward" - they're synonyms
-            if ('fund capital brought forward' in field_name or 'fund capital carried forward' in field_name) and 'sek billion' in field_name:
+            # Fund capital carried forward (LEVEL - in billions)
+            # IMPORTANT: Prefer "carried forward" (closing balance of previous period)
+            # If not found, fallback to "brought forward" (used in some years like 2023)
+            if 'fund capital carried forward' in field_name and 'sek billion' in field_name:
                 value = clean_number_string(row.iloc[1], allow_decimal=True)
                 if value is not None:
                     data['FUNDCAPITALCARRIEDFORWARDLEVEL'] = value
-                    logger.info(f"    [OK] Fund capital brought/carried forward (LEVEL): {value}")
+                    logger.info(f"    [OK] Fund capital carried forward (LEVEL): {value}")
+            # Fallback to "brought forward" for years that don't have "carried forward"
+            elif 'FUNDCAPITALCARRIEDFORWARDLEVEL' not in data and 'fund capital brought forward' in field_name and 'sek billion' in field_name:
+                value = clean_number_string(row.iloc[1], allow_decimal=True)
+                if value is not None:
+                    data['FUNDCAPITALCARRIEDFORWARDLEVEL'] = value
+                    logger.info(f"    [OK] Fund capital brought forward (LEVEL): {value}")
 
             # Net result for the period (in billions)
             elif 'net result for the period' in field_name and 'sek billion' in field_name:
