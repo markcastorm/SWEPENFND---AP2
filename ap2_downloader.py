@@ -231,11 +231,11 @@ def main():
     finally:
         if driver:
             try:
-                driver.quit()
-            except OSError as e:
-                # Ignore "handle is invalid" errors on exit
-                if "invalid" not in str(e).lower():
-                    raise e
+                driver.close()  # Close current window first
+                driver.quit()   # Then quit entire driver
+            except Exception as e:
+                # Ignore errors on cleanup
+                pass
 
 
 if __name__ == "__main__":

@@ -1,0 +1,48 @@
+Model,Status,Context_Window,Capabilities,Best_For,Speed,Quality_Score,Use_Case_Examples,Claude_Selection_Logic
+minimax/minimax-m2:free,untested,Unknown,general-chat,General conversation,medium,unknown,Chat & basic Q&A,"Use for: basic questions, casual conversation. Avoid for: code generation, analysis"
+z-ai/glm-4.5-air:free,untested,Unknown,general-chat,General conversation,fast,unknown,Simple Q&A,"Use for: quick responses, basic chat. Avoid for: complex reasoning"
+tngtech/deepseek-r1t-chimera:free,untested,Unknown,reasoning,Complex reasoning,medium,unknown,Logic problems,"Use for: reasoning tasks, logic problems. Avoid for: code generation"
+deepseek/deepseek-chat-v3-0324:free,untested,128k,code-gen|analysis,Code & analysis,fast,unknown,Code fixes & explanations,"Use for: code explanations, refactoring. Avoid for: heavy reasoning"
+deepseek/deepseek-r1-0528:free,untested,128k,reasoning|thinking,Deep reasoning,slow,unknown,Complex problem solving,"Use for: complex reasoning, mathematical proofs. Avoid for: simple code fixes"
+qwen/qwen3-235b-a22b:free,tested,128k,analysis|explanation|architecture,Architecture & design decisions,medium,10-Sep,API comparisons & system design,"Use for: architecture analysis, API comparisons, technical explanations. Best for: design decisions, trade-off analysis"
+qwen/qwen3-coder:free,tested,32k,code-gen|documentation,Code generation with docs,fast,10-Sep,Full code implementations with comments,"Use for: complete code implementations, algorithm explanations. Best for: when you need well-documented code with complexity analysis"
+tngtech/deepseek-r1t2-chimera:free,untested,Unknown,reasoning,Advanced reasoning,medium,unknown,Step-by-step problem solving,Use for: reasoning tasks requiring steps. Avoid for: quick code fixes
+google/gemini-2.0-flash-exp:free,UNAVAILABLE-404,1M,multimodal|vision,Vision & multi-modal,very-fast,unknown,Image analysis,PERMANENTLY UNAVAILABLE - 404 endpoint not found. Use Gemini Pro via zen_clink instead for Google models
+meituan/longcat-flash-chat:free,untested,Unknown,general-chat,General chat,fast,unknown,Conversations,Use for: chat tasks. Avoid for: specialized tasks
+meta-llama/llama-3.3-70b-instruct:free,tested,128k,analysis|refactoring|sql,Code analysis & SQL,medium,10-Aug,Code reviews & database queries,"Use for: code analysis, SQL queries, list comprehension refactoring. Good for: suggesting improvements to existing code"
+microsoft/mai-ds-r1:free,untested,Unknown,data-science,Data science tasks,medium,unknown,Data analysis,"Use for: data science tasks, analysis. Avoid for: general code"
+openai/gpt-oss-20b:free,untested,Unknown,general-purpose,General tasks,medium,unknown,Mixed tasks,Use for: general-purpose tasks when other models fail
+google/gemma-3-27b-it:free,tested,8k,explanations|theory,Algorithm complexity & theory,fast,10-Aug,Time complexity explanations,"Use for: explaining algorithms, complexity analysis, CS theory. Best for: educational explanations with code examples"
+deepseek/deepseek-r1:free,tested,128k,reasoning|code-gen|thinking,Complex code with reasoning,slow,10-Oct,Algorithm implementations with analysis,"Use for: complex algorithms requiring deep analysis (palindromes, DP problems). Best for: when you need correctness + explanation + edge cases covered"
+nvidia/nemotron-nano-12b-v2-vl:free,tested,Unknown,vision|text|detailed-explanations,Vision + detailed text analysis,medium,10-Sep,Code editor screenshots & visual descriptions,"Use for: multimodal tasks combining vision + text. Best for: detailed explanations of visual concepts, IDE screenshots. Excellent structured responses with examples"
+deepseek/deepseek-r1-distill-llama-70b:free,tested,128k,reasoning|logic|syllogisms,Logic & formal reasoning,medium,10-Sep,Syllogistic reasoning & logic puzzles,"Use for: formal logic problems, syllogisms, categorical reasoning. Best for: structured logical analysis with clear explanations. WORKS NOW - was previously blocked"
+meta-llama/llama-4-maverick:free,untested,Unknown,general-purpose,General tasks,medium,unknown,Mixed workloads,Use for: general tasks. Needs testing
+cognitivecomputations/dolphin-mistral-24b-venice-edition:free,untested,Unknown,general-chat,Conversations,medium,unknown,Chat tasks,Use for: conversational tasks. Needs testing
+deepseek/deepseek-chat-v3.1:free,tested,128k,code-gen|practical-solutions,Practical code solutions,fast,10-Sep,Email regex & validation patterns,"Use for: practical code solutions, regex, validation logic. Best for: production-ready code with trade-off analysis"
+deepseek/deepseek-r1-0528-qwen3-8b:free,untested,Unknown,reasoning,Reasoning,fast,unknown,Logic problems,Use for: reasoning on smaller models. Needs testing
+alibaba/tongyi-deepresearch-30b-a3b:free,untested,Unknown,research|analysis,Research tasks,medium,unknown,Deep research,Use for: research & deep analysis. Needs testing
+mistralai/mistral-small-3.2-24b-instruct:free,untested,128k,general-purpose,General tasks,fast,unknown,Mixed workloads,Use for: general tasks when Mistral needed
+mistralai/mistral-nemo:free,tested,128k,explanations|principles|theory,Software principles & theory,medium,10-Sep,SOLID principles & design patterns,"Use for: explaining software principles, design patterns, architecture concepts. Best for: educational content with code examples"
+mistralai/mistral-small-3.1-24b-instruct:free,untested,128k,general-purpose,General tasks,fast,unknown,Mixed workloads,"Use for: general tasks, fallback option"
+qwen/qwen3-14b:free,untested,32k,general-purpose,General tasks,fast,unknown,Mixed workloads,Use for: smaller general tasks
+mistralai/mistral-7b-instruct:free,untested,32k,general-purpose,Small general tasks,very-fast,unknown,Quick responses,Use for: very quick simple tasks
+nvidia/nemotron-nano-9b-v2:free,untested,Unknown,general-purpose,Small tasks,very-fast,unknown,Quick tasks,Use for: fast responses on small model
+qwen/qwen3-30b-a3b:free,untested,32k,general-purpose,General tasks,fast,unknown,Mixed workloads,Use for: mid-size general tasks
+nousresearch/hermes-3-llama-3.1-405b:free,tested,200k,comparison|analysis|concise-explanations,API comparisons & concise analysis,medium,10-Sep,REST vs GraphQL comparisons,"Use for: technical comparisons, concise explanations. Best for: 3-point summaries, API trade-off analysis. WORKS NOW - was temporarily unavailable"
+meta-llama/llama-4-scout:free,untested,Unknown,general-purpose,General tasks,medium,unknown,Exploration,Use for: general tasks. Needs testing
+meta-llama/llama-3.3-8b-instruct:free,UNAVAILABLE-404,128k,general-purpose,Small tasks,very-fast,unknown,Quick tasks,PERMANENTLY UNAVAILABLE - 404 endpoint not found on OpenRouter
+qwen/qwen2.5-vl-32b-instruct:free,tested,32k,vision|architecture|comprehensive-analysis,Vision + architecture analysis,medium,10-Oct,API architecture diagrams & system design,"Use for: analyzing architecture diagrams, API design reviews, system component analysis. Best for: comprehensive architectural reviews with 20+ point checklists. Extremely thorough and detailed"
+qwen/qwen-2.5-72b-instruct:free,tested,128k,architecture|analysis|trade-offs,System architecture & design,medium,10-Oct,Microservices vs monolith analysis,"Use for: architecture decisions, system design, trade-off analysis. Best for: comprehensive analysis with pros/cons for mid-size teams"
+qwen/qwen-2.5-coder-32b-instruct:free,tested,32k,code-gen|algorithms|linked-lists,Algorithm implementations,fast,10-Oct,Data structures & algorithms,"Use for: implementing data structures, algorithms, linked lists. Best for: clean code with helper functions and test cases included"
+shisa-ai/shisa-v2-llama3.3-70b:free,untested,128k,general-purpose,General tasks,medium,unknown,Mixed workloads,Use for: general tasks as alternative to Llama
+moonshotai/kimi-k2:free,untested,Unknown,general-purpose,General tasks,medium,unknown,Mixed workloads,Use for: general tasks. Needs testing
+qwen/qwen3-4b:free,untested,32k,small-tasks,Very small tasks,very-fast,unknown,Ultra-quick responses,Use for: extremely simple & fast tasks only
+mistralai/mistral-small-24b-instruct-2501:free,untested,128k,general-purpose,General tasks,fast,unknown,Mixed workloads,"Use for: general tasks, recent Mistral variant"
+meta-llama/llama-3.2-3b-instruct:free,untested,128k,small-tasks,Very small tasks,very-fast,unknown,Quick simple tasks,Use for: very simple quick tasks
+google/gemma-3-4b-it:free,untested,8k,small-tasks,Small tasks,very-fast,unknown,Quick responses,Use for: simple quick tasks
+arliai/qwq-32b-arliai-rpr-v1:free,UNAVAILABLE-privacy,32k,reasoning,Complex reasoning,medium,unknown,Logic & reasoning,UNAVAILABLE - Data policy error. Requires OpenRouter privacy config to allow paid model training
+google/gemma-3n-e2b-it:free,untested,8k,small-tasks,Very small tasks,very-fast,unknown,Ultra-fast responses,Use for: extremely simple tasks
+google/gemma-3-12b-it:free,untested,8k,general-purpose,Small-medium tasks,fast,unknown,Quick tasks,Use for: quick general tasks
+google/gemma-3n-e4b-it:free,untested,8k,small-tasks,Very small tasks,very-fast,unknown,Ultra-fast responses,Use for: extremely simple tasks
+agentica-org/deepcoder-14b-preview:free,UNAVAILABLE-privacy,Unknown,code-gen,Code generation,medium,unknown,Code debugging,UNAVAILABLE - Data policy error. Requires OpenRouter privacy config to allow paid model training
+gemini-2.5-pro (via zen_clink),tested,1M,analysis|explanation|thinking|research,Deep analysis & explanations,medium,10-Oct,Algorithm comparisons with examples,"PREMIUM OPTION via zen_clink: Use for deep analysis, theoretical explanations, comprehensive comparisons. Best for: complex questions requiring structured responses with examples and tables"

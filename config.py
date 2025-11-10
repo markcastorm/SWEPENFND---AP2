@@ -88,7 +88,7 @@ BASE_URL = "https://ap2.se/en/news-and-reports/reports/financial-reports/"
 
 # Year settings
 # Set TARGET_YEAR to a specific year (e.g., 2024) or "latest" to scrape the most recent year
-TARGET_YEAR = "latest"  # Options: "latest" or specific year like 2024, 2023, etc.
+TARGET_YEAR = 2018  # Options: "latest" or specific year like 2024, 2023, etc.
 
 # Alternative: Set specific years to scrape (if TARGET_YEAR is not "latest")
 # YEARS_TO_SCRAPE = [2024, 2023, 2022]  # Can be a list of years
